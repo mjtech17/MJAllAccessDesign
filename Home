@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MJAllAccess Design | Home</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <style>
+	.snap {background-color: #7EC0EE; padding: 10px; text-align: center; height: 300px; }
+	div {padding: 15px;}
+	.bg-foot {background-color: #2f2f2f; color: #ffffff; padding-top: 10px;}
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+      <a class="navbar-brand" href="index.html">MJAllAccess Design</a>	  
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="apparel.html">The Apparel Design</a></li>
+        <li><a href="graphic.html">The Graphic Design</a></li> 
+        <li><a href="web-mobile.html">The Web/Mobile Design</a></li>
+		<li><a href="connect.html">Connect With Me</a></li>		
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container">
+  <h1>MJAllAccess Design</h1>
+  <p>Extraordinary Design for the Simple<br/><br/>Welcome to the place where all the creativity lives. You have a project you need an innovative design for? You have come to the right place. Connect with MJAllAccess Design to start the journey to creative satisfaction. We will be waiting...</p> 
+	  <div class="row">
+			<div class="col-sm-4 snap">
+				<h3>The Apparel Design</h3>
+				<p>Beyond just colors, merchandise, and profit. Bringing you brands that make you want to be loyal.</p>
+				<img src="Alive-1.jpg" height="150px" alt="t-shirt design" />
+			</div>
+			<div class="col-sm-4 snap">
+				<h3>The Graphic Design</h3>
+				<p>The deep rooted meaning behind colors, lines, and images strung together atop a media of your choice.</p>
+			</div>
+			<div class="col-sm-4 snap">
+				<h3>The Web/Mobile Design</h3>
+				<p>Next generation sites fit for the next generation client and thier visitors.</p>
+			</div>
+	  </div><br/>
+	  <hr/>
+	  <div class="row">
+		<div class="col-sm-4">
+			<h3>Portfolios</h3>
+			<h4><a href="https://www.behance.net/mjallaccess" target="_blank">Behance.net</a></h4>
+			<h4><a href="https://www.fiverr.com/mjallaccess" target="_blank">Fiverr.com</a></h4>
+		</div>
+		<div class="col-sm-8">
+			<h3>Updates:</h3>
+			<p><b>1/2/16:</b> <a href="/pricing">2017 Pricing Updates</a></p>
+			<p><b>7/3/16:</b> Game Design services are coming soon to MJAllAccess Design. Customers can have custom games created in HTML and exported to an .EXE (executable) file for play on any desktop computer. For those mobile gamers, there will be options for mobile-friendly games as well.</p>
+		</div>
+	  </div>
+</div>
+<footer class="container-fluid bg-foot text-center">
+Copyright <script type="text/javascript">
+var d = new Date()
+document.write(d.getFullYear())
+</script> © MJAllAccess Design. All Rights Reserved.</p> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+</footer>
+</body>
+</html>
